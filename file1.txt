@@ -1,0 +1,3 @@
+In this , file we are Instructed to add some lines about git basixs 
+now what are the git basics git is what we know as a vcs 
+vcs full form is version control system 
